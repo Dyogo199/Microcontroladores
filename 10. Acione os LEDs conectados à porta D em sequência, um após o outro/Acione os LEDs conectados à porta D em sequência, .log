@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\workspace\Aulas-Cpp\Questão10.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\workspace\Aulas-Cpp\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Quest_o10.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Quest_o10.c
+diagnostics: 19	123	Compiled Successfully	Quest_o10.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1515 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1515 (99%)
+hint: 0	1144	Used ROM (bytes): 122 (1%)  Free ROM (bytes): 32646 (99%)	Used ROM (bytes): 122 (1%)  Free ROM (bytes): 32646 (99%)
+diagnostics: 0	125	Project Linked Successfully	Questão10.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'Questão10.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 15 mai 2023, 17:02:09	Questão10.mcppi
